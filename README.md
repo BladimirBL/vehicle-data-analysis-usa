@@ -32,3 +32,6 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite expl
 ## 📄 Licencia
 Este proyecto se comparte con fines educativos y de práctica en análisis de datos.
 
+
+
+
