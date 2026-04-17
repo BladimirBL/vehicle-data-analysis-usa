@@ -19,7 +19,7 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite expl
 ## 🚀 Cómo usar la aplicación
 
 1) Haz clic en el siguiente enlace:
-👉 Abrir aplicación ([proyecto-7-99m4.onrender.com in Bing](https://proyecto-7-99n4.onrender.com))
+👉 [Abrir aplicación en línea](https://proyecto-7-99n4.onrender.com)
 2) Se abrirá en tu navegador como una página web.
 3) Marca las casillas de verificación para elegir las visualizaciones que quieras explorar:
    -Histograma del kilometraje
