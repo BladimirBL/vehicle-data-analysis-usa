@@ -25,9 +25,9 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite expl
    -Gráfico de dispersión año vs. kilometraje
 4) Interactúa con los gráficos de manera dinámica, sin necesidad de instalar nada en tu equipo.
 
-## 📸 Ejemplos de visualización
+## 📸 Ejemplo de visualización
 
 <img width="796" height="515" alt="image" src="https://github.com/user-attachments/assets/87b7037c-0bf3-4ccf-bf30-a01228654883" />
 
 
-![Gráfico de dispersión año vs kilometraje](images/dispersion.png)
+
