@@ -27,5 +27,3 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite expl
 4) Interactúa con los gráficos de manera dinámica, sin necesidad de instalar nada en tu equipo.
 
 
-👉 [Abrir aplicación en línea](https://proyecto-7-99n4.onrender.com)
-
