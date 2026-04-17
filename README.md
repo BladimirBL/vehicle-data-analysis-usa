@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación web desarrollada con Streamlit que permite explorar un conjunto de datos de vehículos usados en Estados Unidos. Su objetivo es facilitar el análisis visual de información clave como el kilometraje y el año del modelo, ofreciendo una interfaz interactiva y sencilla para estudiantes, analistas en formación y cualquier persona interesada en el mercado automotriz.
 
+---
+
 ## ⚙️ Funcionalidades
 
 - Visualización de un histograma del kilometraje (`odometer`) de los vehículos.
