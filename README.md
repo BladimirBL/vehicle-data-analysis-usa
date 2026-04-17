@@ -27,6 +27,7 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite expl
 
 ## 📸 Ejemplos de visualización
 
-![Histograma del kilometraje](images/histograma.png)
+<img width="796" height="515" alt="image" src="https://github.com/user-attachments/assets/87b7037c-0bf3-4ccf-bf30-a01228654883" />
+
 
 ![Gráfico de dispersión año vs kilometraje](images/dispersion.png)
