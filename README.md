@@ -29,5 +29,6 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite expl
 
 <img width="796" height="515" alt="image" src="https://github.com/user-attachments/assets/87b7037c-0bf3-4ccf-bf30-a01228654883" />
 
-
+## 📄 Licencia
+Este proyecto se comparte con fines educativos y de práctica en análisis de datos.
 
