@@ -15,7 +15,6 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite expl
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
-
 ## 🚀 Cómo usar la aplicación
 
 1) Haz clic en el siguiente enlace:
@@ -26,4 +25,8 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite expl
    -Gráfico de dispersión año vs. kilometraje
 4) Interactúa con los gráficos de manera dinámica, sin necesidad de instalar nada en tu equipo.
 
+## 📸 Ejemplos de visualización
 
+![Histograma del kilometraje](images/histograma.png)
+
+![Gráfico de dispersión año vs kilometraje](images/dispersion.png)
