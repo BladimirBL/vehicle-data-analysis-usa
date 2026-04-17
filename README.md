@@ -10,11 +10,15 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite expl
 - Visualización de un gráfico de dispersión entre el año del modelo (`model_year`) y el kilometraje.
 - Interfaz interactiva con casillas de verificación para mostrar los gráficos de forma dinámica.
 
+---
+
  ## 🛠️ Herramientas y tecnologias usadas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
 
 
 ## 🚀 Cómo usar la aplicación
@@ -27,12 +31,18 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite expl
    -Gráfico de dispersión año vs. kilometraje
 4) Interactúa con los gráficos de manera dinámica, sin necesidad de instalar nada en tu equipo.
 
+---
+
 ## 📸 Ejemplo de visualización
 
 <img width="796" height="515" alt="image" src="https://github.com/user-attachments/assets/87b7037c-0bf3-4ccf-bf30-a01228654883" />
 
+---
+
 ## 📄 Licencia
 Este proyecto se comparte con fines educativos y de práctica en análisis de datos.
+
+---
 
 ⭐ If you find these projects useful, feel free to leave a star
 
