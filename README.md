@@ -14,8 +14,6 @@ Esta aplicación web fue creada con **Streamlit** y permite explorar un conjunto
 2. Instala los paquetes necesarios desde `requirements.txt`.
 
 
-¿Cómo puedo enviar mi proyecto?
-
 Porfavor dirijase a este link: https://proyecto-7-99n4.onrender.com
 
 
